@@ -1,4 +1,4 @@
-# IT Help-Desk Tickets: Exception handling
+# IT Help-Desk Chatbot: Exception handling
 
 ###### 
 
